@@ -1,0 +1,41 @@
+*{
+    max-width: 100%;
+}
+.container {
+    background: #e13c16;
+    max-width: 100%;
+    display: block;
+    transition: all 0,3s;
+
+}
+
+.nav-link {
+    font-weight: bold;
+    margin-left: 30px;
+    color: rgb(208, 194, 189);
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.carousel-item {
+    height: 500px;
+}
+.d-text{
+    color: #d04a2a;
+    text-align: center;
+    margin-top: 20px;
+}
+.text-h3 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-image{
+    background: linear-gradient(white),url(.banner-image);
+}
+.table-borderless{
+    max-width: 100%;
+}
